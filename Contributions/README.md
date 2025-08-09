@@ -1,6 +1,6 @@
 # Contributions Log
 
-## Open Source PRs & Issues
+## Mesery PRs & Issues
 
 ### 📌 [CI] New Make Target: `academy-update` – [layer5io/exoscale-academy#120](https://github.com/layer5io/exoscale-academy/issues/120)
 **Summary**: Created and integrated a new Makefile target `academy-update` to streamline updating Academy projects across multiple repositories.
@@ -15,3 +15,11 @@
 - Creating and reusing `Makefile` targets across multiple projects
 - CI structure of Layer5 Academy ecosystem
 - Cross-repo dependency coordination
+
+
+### 📌 [DOCS] 
+**Pull Requests:**
+- 🔗 [Permission Keys Reference](https://github.com/meshery/meshery/pull/15559)
+- 🔗 [](https://github.com/meshery/meshery/pull/15558)
+
+### 📌 [CI]
