@@ -1,25 +1,40 @@
-# Contributions Log
+# 📓 Contributions Log
 
-## Mesery PRs & Issues
+## ✅ Meshery – Merged PRs & Issues
 
-### 📌 [CI] New Make Target: `academy-update` – [layer5io/exoscale-academy#120](https://github.com/layer5io/exoscale-academy/issues/120)
-**Summary**: Created and integrated a new Makefile target `academy-update` to streamline updating Academy projects across multiple repositories.
+---
+
+### 📌 CI – *New Make Target: `academy-update`*  
+Issue: [layer5io/exoscale-academy#120](https://github.com/layer5io/exoscale-academy/issues/120)  
+
+**Summary:**  
+Developed and integrated a **new `Makefile` target** `academy-update` to streamline updates to Academy projects across multiple repositories.
 
 **Pull Requests:**
-- 🔗 [academy PR #20](https://github.com/layer5io/layer5-academy/pull/20)
-- 🔗 [exoscale-academy PR #122](https://github.com/layer5io/exoscale-academy/pull/122)
-- 🔗 [academy-build PR #29](https://github.com/layer5io/academy-build/pull/29)
-- 🔗 [academy-example PR #30](https://github.com/layer5io/academy-example/pull/30)
+- 🔗 [academy PR #20](https://github.com/layer5io/layer5-academy/pull/20)  
+- 🔗 [exoscale-academy PR #122](https://github.com/layer5io/exoscale-academy/pull/122)  
+- 🔗 [academy-build PR #29](https://github.com/layer5io/academy-build/pull/29)  
+- 🔗 [academy-example PR #30](https://github.com/layer5io/academy-example/pull/30)  
 
 **What I Learned:**
-- Creating and reusing `Makefile` targets across multiple projects
-- CI structure of Layer5 Academy ecosystem
-- Cross-repo dependency coordination
+- Designing reusable `Makefile` targets for multiple projects  
+- Understanding the CI structure of the Layer5 Academy ecosystem  
+- Managing **cross-repo dependency coordination**  
 
+---
 
-### 📌 [DOCS] 
+### 📌 Docs – *Documentation Improvements*  
+
 **Pull Requests:**
-- 🔗 [Permission Keys Reference](https://github.com/meshery/meshery/pull/15559)
-- 🔗 [](https://github.com/meshery/meshery/pull/15558)
+- 🔗 [Add Callout](https://github.com/meshery/meshery/pull/15559)  
+- 🔗 [Display Key IDs in the Reference Table](https://github.com/meshery/meshery/pull/15558)  
 
-### 📌 [CI]
+---
+
+## 🚧 Work in Progress  
+
+**Pull Requests:**  
+- 🔗 [Fix URL](https://github.com/meshery/meshery/pull/15575)  
+
+**Issues:**  
+- 🔗 [Bump ESLint](https://github.com/meshery/meshery/issues/15526)

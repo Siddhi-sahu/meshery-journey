@@ -1,12 +1,15 @@
-# Meshery Journey 
+# 🛠 Meshery Journey
 
-Welcome to my public learning log and contribution journal for the meshery project and the Layer5 ecosystem.
+Welcome to my **public learning log** and **contribution journal** for the [Meshery](https://github.com/meshery/meshery) project and the [Layer5](https://layer5.io) ecosystem.  
 
-### 📌 Focus Areas
-- Backend Development 
-- CI/CD 
-- Docs
+---
 
-### 🧠 Contributions
-Check `contributions/README.md` for links to issues, pull requests and patches I have made.
+## 🎯 Focus Areas
+- **Backend Development**
+- **CI/CD**
+- **Documentation**
 
+---
+
+## 🧠 Contributions
+See [`contributions/README.md`](contributions/README.md) for detailed links to issues, pull requests, and patches I’ve worked on.
