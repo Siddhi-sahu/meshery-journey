@@ -12,4 +12,4 @@ Welcome to my **public learning log** and **contribution journal** for the [Mesh
 ---
 
 ## 🧠 Contributions
-See [`contributions/README.md`](contributions/README.md) for detailed links to issues, pull requests, and patches I’ve worked on.
+See [`contributions/README.md`](Contributions/README.md) for detailed links to issues, pull requests, and patches I’ve worked on.
