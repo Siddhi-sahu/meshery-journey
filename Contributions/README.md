@@ -2,6 +2,15 @@
 
 ## ✅ Meshery – Merged PRs & Issues
 
+### 📌 Docs – *Documentation Improvements*  
+
+--- 
+
+**Pull Requests:**
+- 🔗 [Add Callout](https://github.com/meshery/meshery/pull/15559)  
+- 🔗 [Display Key IDs in the Reference Table](https://github.com/meshery/meshery/pull/15558)  
+- 🔗 [Fix Mastering-Meshery Broken Link](https://github.com/meshery/meshery/pull/15575)
+
 ---
 
 ### 📌 CI – *New Make Target: `academy-update`*  
@@ -23,18 +32,10 @@ Developed and integrated a **new `Makefile` target** `academy-update` to streaml
 
 ---
 
-### 📌 Docs – *Documentation Improvements*  
-
-**Pull Requests:**
-- 🔗 [Add Callout](https://github.com/meshery/meshery/pull/15559)  
-- 🔗 [Display Key IDs in the Reference Table](https://github.com/meshery/meshery/pull/15558)  
-
----
-
 ## 🚧 Work in Progress  
 
 **Pull Requests:**  
-- 🔗 [Fix URL](https://github.com/meshery/meshery/pull/15575)  
+- 🔗 [Rest Api Docs](https://github.com/layer5io/docs/issues/784#issuecomment-3201536489)  
 
 **Issues:**  
 - 🔗 [Bump ESLint](https://github.com/meshery/meshery/issues/15526)
