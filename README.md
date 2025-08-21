@@ -5,9 +5,9 @@ Welcome to my **public learning log** and **contribution journal** for the [Mesh
 ---
 
 ## 🎯 Focus Areas
+- **Documentation**
 - **Backend Development**
 - **CI/CD**
-- **Documentation**
 
 ---
 
